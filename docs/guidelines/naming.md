@@ -17,14 +17,23 @@
 ## Prefix (REQUIRED)
 
 | Prefix   | Meaning |
-|----------|--------|
-| tool     | utility or script |
-| dotnet   | C# / .NET |
-| cpp      | C++ |
-| iot      | hardware / Arduino / Raspberry PI / SMT /etc |
+|----------|---------|
+| tool     | utility or helper tool |
+| script   | small script-based repo |
+| dotnet   | C# / .NET project |
+| cpp      | C++ project |
+| python   | Python project |
+| web      | website or frontend project |
+| api      | API/backend-focused project |
+| infra    | infrastructure / hosting / deployment |
+| devops   | CI/CD, automation, operational tooling |
+| iot      | hardware / Arduino / Raspberry PI / ESP32 |
+| embedded | embedded systems project |
 | print    | 3D printing |
-| infra    | infrastructure |
-| lab      | experiments |
+| home     | household or home automation |
+| lab      | experiments / prototypes |
+| data     | parsing, conversion, extraction, analytics |
+| docs     | documentation / templates / reference |
 
 ---
 

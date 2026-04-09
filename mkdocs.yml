@@ -40,10 +40,40 @@ nav:
   - Repositories:
       - Overview: repositories/index.md
       - Telegram-Tools: repositories/telegram-tools.md
-  - Categories:
-      - Overview: categories/index.md
-      - Telegram: categories/telegram.md
-      - Automation: categories/automation.md
+- Categories:
+    - Overview: categories/index.md
+    - Telegram: categories/telegram.md
+    - .NET / C#: categories/dotnet-csharp.md
+    - C++: categories/cpp.md
+    - Python: categories/python.md
+    - Web: categories/web.md
+    - APIs: categories/apis.md
+    - Tools / Utilities: categories/tools-utilities.md
+    - Scripts / Automation: categories/scripts-automation.md
+    - Infrastructure: categories/infrastructure.md
+    - DevOps / CI-CD: categories/devops-ci-cd.md
+    - Databases: categories/databases.md
+    - AI / ML: categories/ai-ml.md
+    - Data / Parsing / Conversion: categories/data-parsing-conversion.md
+    - Testing / QA: categories/testing-qa.md
+    - Security: categories/security.md
+    - Networking: categories/networking.md
+    - GitHub: categories/github.md
+    - AWS: categories/aws.md
+    - Cloud / Hosting: categories/cloud-hosting.md
+    - Linux / Server: categories/linux-server.md
+    - IoT / Arduino: categories/iot-arduino.md
+    - Electronics: categories/electronics.md
+    - Embedded: categories/embedded.md
+    - Robotics: categories/robotics.md
+    - Engineering: categories/engineering.md
+    - Home Automation: categories/home-automation.md
+    - 3D Printing: categories/3d-printing.md
+    - Household: categories/household.md
+    - Productivity: categories/productivity.md
+    - Gardening: categories/gardening.md
+    - Experiments: categories/experiments.md
+    - Reference / Templates: categories/reference-templates.md
   - About: about.md
   - Guidelines:
     - Overview: guidelines/README.md

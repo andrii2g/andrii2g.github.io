@@ -26,19 +26,40 @@ These rules MUST be followed by any AI agent generating repositories or pages.
 
 ## Naming enforcement
 
-Format:
+Preferred format:
 
 [prefix]-[domain]-[purpose]
+
+Allowed prefixes:
+- tool
+- script
+- dotnet
+- cpp
+- python
+- web
+- api
+- infra
+- devops
+- iot
+- embedded
+- print
+- home
+- lab
+- data
+- docs
 
 ---
 
 ## Tag enforcement
 
-Must include:
+Each generated repository entry should include:
 
-- 1 tech tag
-- 1 domain tag
-- 1 type tag
+- at least 1 tech tag
+- at least 1 domain tag
+- at least 1 type tag
+
+Recommended tag count:
+- 3 to 6 tags
 
 ---
 
