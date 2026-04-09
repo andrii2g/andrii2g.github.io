@@ -1,4 +1,4 @@
-site_name: Andrey Grunyov Projects
+site_name: A2G Projects
 site_description: Catalog of repositories, tools, experiments, and technical projects.
 site_url: https://andrii2g.github.io/
 repo_url: https://github.com/andrii2g/andrii2g.github.io
@@ -45,3 +45,11 @@ nav:
       - Telegram: categories/telegram.md
       - Automation: categories/automation.md
   - About: about.md
+  - Guidelines:
+    - Overview: guidelines/README.md
+    - Naming: guidelines/naming.md
+    - Tags: guidelines/tags.md
+    - Categories: guidelines/categories.md
+    - Repository-Pages: guidelines/repository-page.md
+    - Workflow: guidelines/workflow.md
+    - Codex-AI-Rules: guidelines/codex-ai-rules.md  

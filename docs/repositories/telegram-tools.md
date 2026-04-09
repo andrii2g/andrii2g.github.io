@@ -10,7 +10,7 @@ tags:
 
 ## Summary
 
-A repository for Telegram-related tools, helpers, integrations, and experiments.
+A repository for Telegram-related tools, helpers, integrations, bits, and experiments.
 
 ## Purpose
 
@@ -20,15 +20,6 @@ This repository groups together utilities related to Telegram, so they are easie
 
 `https://github.com/andrii2g/Telegram-Tools`
 
-## Suggested positioning
-
-Use this repository as a home for:
-
-- sticker pack utilities
-- Telegram client experiments
-- small automation scripts
-- bot or user-client tools
-
 ## Status
 
 Active / initial setup
@@ -37,10 +28,14 @@ Active / initial setup
 
 - .NET
 - Minimal API
-- Telegram client libraries
-- simple HTML frontend if needed
+- Telegram API (WTelegram NuGet package)
+- simple HTML frontend
+
+## Features
+
+- Sticker pack Viewer
 
 ## Next ideas
 
-- Sticker pack viewer
+- TBD
 
