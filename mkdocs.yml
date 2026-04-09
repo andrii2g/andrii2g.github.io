@@ -1,0 +1,47 @@
+site_name: Andrey Grunyov Projects
+site_description: Catalog of repositories, tools, experiments, and technical projects.
+site_url: https://andrii2g.github.io/
+repo_url: https://github.com/andrii2g/andrii2g.github.io
+repo_name: andrii2g/andrii2g.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+nav:
+  - Home: index.md
+  - Repositories:
+      - Overview: repositories/index.md
+      - Telegram-Tools: repositories/telegram-tools.md
+  - Categories:
+      - Overview: categories/index.md
+      - Telegram: categories/telegram.md
+      - Automation: categories/automation.md
+  - About: about.md
